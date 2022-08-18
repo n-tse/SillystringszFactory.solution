@@ -31,7 +31,7 @@ The project is a simple web application that allows a factory manager employed b
 * _Add the following code to the new appsettings.json file: 
   {
     "ConnectionStrings": {
-        "DefaultConnection": "Server=localhost;Port=3306;database=sillystringsz_factory;uid=[YOUR-USERNAME-HERE];pwd=[YOUR-PASSWORD-HERE];"
+        "DefaultConnection": "Server=localhost;Port=3306;database=nick_tse;uid=[YOUR-USERNAME-HERE];pwd=[YOUR-PASSWORD-HERE];"
     }
   }_
 * _Run the command $ dotnet build_
